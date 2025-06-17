@@ -44,6 +44,13 @@ A modern web browser (Chrome, Firefox, Edge, etc.)
    ```
 3. Open `index.html` in your browser to start the visualizer.
 
+## Future Improvements
+
+Here are a few ideas to enhance the project in the future:
+
+- Add **A\* Search Algorithm** for more efficient pathfinding
+- Mobile friendly UI improvements
+
 ## Deployment
 
 This project is deployed on **Netlify** and publicly accessible at the link above.
