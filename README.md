@@ -50,6 +50,7 @@ Here are a few ideas to enhance the project in the future:
 
 - Add **A\* Search Algorithm** for more efficient pathfinding
 - Mobile friendly UI improvements
+- Modify **generaterandommaze** such that it always generates a maze that has a path from start to end
 
 ## Deployment
 
